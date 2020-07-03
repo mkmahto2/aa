@@ -82,4 +82,4 @@ Upon execution, you will receive the following result −
 index.htm  unix-basic_utilities.htm  unix-directories.htm  
 test.sh    unix-communication.htm    unix-environment.htm
 ~~~
-This . Is represented the present working directory. We can write the present working directory instead of .
+This (. ) Dot Is represented the present working directory. We can write the present working directory instead of (.) Dot
